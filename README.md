@@ -22,5 +22,5 @@ Matplotlib and Seaborn.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Muhammed-Fais/Student-Grades-Prediction-with-Machine-Learning/blob/master/streamlit-App-2023-01-28-14-01-20.webm)
+![App Screenshot](https://github.com/Muhammed-Fais/Student-Grades-Prediction-with-Machine-Learning/blob/master/ezgif.com-gif-maker.gif)
 
